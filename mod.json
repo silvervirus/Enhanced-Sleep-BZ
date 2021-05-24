@@ -1,0 +1,11 @@
+﻿{
+  "Id": "subnauticaenhancedsleep",
+  "DisplayName": "EnhancedSleep",
+  "Author": "Castordog",
+  "Version": "1.0",
+  "Requires": [],
+  "Enable": true,
+  "AssemblyName": "SubnauticaEnhancedSleep.dll",
+  "Game": "BelowZero",
+  "Config": {}
+}
